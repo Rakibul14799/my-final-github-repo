@@ -1,0 +1,53 @@
+
+h3{
+    color: rgb(137, 47, 255);
+    font-size: 30px;
+    text-decoration: underline;
+    
+}
+
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+    font-family: 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.blog{
+    margin: 20px;
+    border:10px solid green;
+    box-shadow: 10px 10px 10px blueviolet;
+}
+
+.rakib{
+    border: 5px  solid  goldenrod;
+    display: block;
+    height:30px ;
+    display: inline-block;
+}
+
+li{
+    display: inline;
+}
+
+.header{
+    height: 300px;
+    /* background-color: greenyellow; */
+    /* background: red; */
+    /* background-image: url('Sakib.jpg'); */
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    /* background-size: 200px; */
+
+    background-image: url('../house-icon.png');
+}
+
+.dolor{
+    border: 2px solid red;
+    /* height: 60px; */
+    /* display: inline-block; */
+    /* display: block; */
+}
